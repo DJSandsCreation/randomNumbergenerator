@@ -1,0 +1,14 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  position: relative;
+  background: transparent;
+  content: "";
+  position: absolute;
+  background: #040404 url("5.png")repeat;
+  /* background-size: cover; */
+  left: 0;
+  right: 0;
+  top: 0;
+  /* height: 100vh; */
+}
